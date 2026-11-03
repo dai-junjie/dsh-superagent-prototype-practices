@@ -16,7 +16,7 @@
 
 ## 从哪里开始
 
-先完成一篇可复现的最小实践，再逐步补充技术报告。当前仓库提供目录说明和写作模板，尚无已验证的实践案例。
+先从[消息到文档 PR](practices/01-message-to-pr.md)做起，再阅读[授权边界对照](practices/02-authorization-boundary.md)；具备隔离环境后可选做[中断恢复](practices/03-interruption-recovery.md)。这三篇是待执行的实践方案，尚无实测结论。先完成一篇可复现的最小实践，再逐步补充技术报告。
 
 1. 选择一个能独立验证结果的小目标，明确输入和预期输出。
 2. 复制[最小实践模板](practices/_template.md)，在 `practices/` 下创建文章，例如 `first-practice.md`。
