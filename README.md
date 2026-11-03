@@ -2,6 +2,12 @@
 
 记录 [dsh-superagent-prototype](https://github.com/dai-junjie/dsh-superagent-prototype) 的技术解读和可复现的实践案例。
 
+## 参考资料
+
+- [原文（微信公众号）](https://mp.weixin.qq.com/s/zoS7GlReWPhfCjENGxXCdg)
+- [官方仓库：dsh-superagent-prototype](https://github.com/dai-junjie/dsh-superagent-prototype)
+- [非官方中文翻译：项目理念](https://github.com/saltapp/dsh-superagent-prototype-cn/blob/main/docs/000-philosophy-zh.md)：社区译文，理解项目与核对实现时请同时参考官方仓库。
+
 ## 内容导航
 
 - [技术解读](docs/README.md)：架构、工作机制和技术报告。
