@@ -16,7 +16,7 @@
 
 ## 从哪里开始
 
-先完成一篇可复现的最小实践，再逐步补充技术报告。当前仓库提供目录说明和写作模板，尚无已验证的实践案例。
+已有一篇 [Superagent 特性验证记录](practices/superagent-feature-verification.md)，包含 Inline / Spill 的一次长消息实测、复现方法与未验证边界。新增实践可以继续使用目录说明和写作模板。
 
 1. 选择一个能独立验证结果的小目标，明确输入和预期输出。
 2. 复制[最小实践模板](practices/_template.md)，在 `practices/` 下创建文章，例如 `first-practice.md`。

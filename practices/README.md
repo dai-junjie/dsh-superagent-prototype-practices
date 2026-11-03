@@ -4,7 +4,8 @@
 
 ## 案例索引
 
-当前尚无已验证的案例。[最小实践模板](_template.md) 是写作起点，不是已完成的实践。
+- [Superagent 特性验证记录](superagent-feature-verification.md)：记录不易在日常聊天中直接观察的机制；首项为 Inline / Spill 的一次长消息实测，其他特性明确标为待验证。
+- [最小实践模板](_template.md)：写作起点，不是已完成的实践。
 
 ## 新增案例
 
